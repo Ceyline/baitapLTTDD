@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\drawable_yawning_lion.png.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\drawable\\yawning_lion.png"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\layout_fragment_explore.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\layout\\fragment_explore.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\drawable_cat4.jpg.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\drawable\\cat4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\drawable_bubududu_dance.gif.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\drawable\\bubududu_dance.gif"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\drawable_cat2.jpg.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\drawable\\cat2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\layout_fragment_viewpager_2.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\layout\\fragment_viewpager_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\layout_fragment_viewpager_1.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\layout\\fragment_viewpager_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\color_nav_color.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\color\\nav_color.xml"
+    },
+    {
+        "merged": "com.example.bt6.app-debug-31:/layout_fragment_account.xml.flat",
+        "source": "com.example.bt6.app-main-33:/layout/fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\drawable_cat3.jpg.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\drawable\\cat3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\layout_fragment_viewpager_3.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\layout\\fragment_viewpager_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\drawable_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\drawable\\baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-debug-31:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\layout\\fragment_home.xml"
+    }
+]

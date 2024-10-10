@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-mergeDebugResources-30:\\layout\\fragment_explore.xml",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\layout\\fragment_explore.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-mergeDebugResources-30:\\layout\\fragment_viewpager_1.xml",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\layout\\fragment_viewpager_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-mergeDebugResources-30:\\layout\\fragment_viewpager_2.xml",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\layout\\fragment_viewpager_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-mergeDebugResources-30:\\layout\\fragment_account.xml",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "com.example.bt6.app-mergeDebugResources-30:/layout/fragment_account.xml",
+        "source": "com.example.bt6.app-main-33:/layout/fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-mergeDebugResources-30:\\layout\\fragment_viewpager_3.xml",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\layout\\fragment_viewpager_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-mergeDebugResources-30:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.bt6.app-main-33:\\layout\\fragment_home.xml"
+    }
+]
