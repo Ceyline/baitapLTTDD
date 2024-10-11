@@ -52,10 +52,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4dab792a-7fb1-4636-b3a9-7da3b455bc52" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../app/src/main/res/menu/bottom_navigation.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bt1HelloWorld" beforeDir="false" afterPath="$PROJECT_DIR$/../bt1HelloWorld" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bt3FlashLayout/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bt3FlashLayout/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bt4ListView/app/src/main/java/com/example/adapter/MainAdapter.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt2LoginLayout/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +68,44 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bt6" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bt6" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bt6" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bt6" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -100,7 +136,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "bt4",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/124/124LTTD04/AndroidStudioProjects/bt6_bottomNav_tabLayout/app/src/main/res/drawable",
+    "last_opened_file_path": "D:/124/124LTTD04/BaiNhom/FoodTrack",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
