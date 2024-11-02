@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/contact"
+        android:icon="@drawable/baseline_perm_contact_calendar_24"
+        android:title="Contacts"/>
+    <item
+        android:id="@+id/message"
+        android:icon="@drawable/baseline_chat_24"
+        android:title="Messages"/>
+    <item
+        android:id="@+id/call_log"
+        android:icon="@drawable/baseline_call_24"
+        android:title="Call Log"/>
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="Account"/>
+</menu>

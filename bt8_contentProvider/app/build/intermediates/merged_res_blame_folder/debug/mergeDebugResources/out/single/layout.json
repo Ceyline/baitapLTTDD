@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.myapplication.app-mergeDebugResources-30:\\layout\\item_contacts.xml",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\item_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.myapplication.app-mergeDebugResources-30:\\layout\\fragment_account.xml",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.myapplication.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.myapplication.app-mergeDebugResources-30:\\layout\\item_call_log.xml",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\item_call_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.myapplication.app-mergeDebugResources-30:\\layout\\fragment_call_log.xml",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\fragment_call_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.myapplication.app-mergeDebugResources-30:\\layout\\fragment_messages.xml",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\fragment_messages.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.myapplication.app-mergeDebugResources-30:\\layout\\item_messages.xml",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\item_messages.xml"
+    },
+    {
+        "merged": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.myapplication.app-mergeDebugResources-30:\\layout\\fragment_contacts.xml",
+        "source": "C:\\Users\\kizun\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/item_call_log.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/item_call_log.xml"
+    }
+]
